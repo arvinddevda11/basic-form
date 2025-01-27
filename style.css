@@ -1,0 +1,71 @@
+.form {
+    background-color: whitesmoke;
+}
+
+#password {
+    margin-left: 8px;
+    border-radius: 8px;
+    padding: 4px;
+}
+#text {
+    margin-left: 30px;
+    border-radius: 8px;
+    padding: 4px;
+}
+#email {
+    margin-left: 27px;
+    border-radius: 8px;
+    padding: 4px;
+}
+#tel {
+    border-radius: 8px;
+    padding: 4px;
+}
+#search {
+    margin-left: 21px;
+    border-radius: 8px;
+    padding: 4px;
+}
+#number {
+    margin-left: 13px;
+    border-radius: 8px;
+    padding: 4px;
+}
+#date {
+    margin-left: 19px;
+    border-radius: 8px;
+    padding: 4px;
+}
+#month {
+    margin-left: 6px;
+    border-radius: 8px;
+    padding: 4px;
+}
+#state {
+    margin-left: 25px;
+    border-radius: 8px;
+    padding: 4px;
+}
+#country {
+    margin-left: 6px;
+    border-radius: 8px;
+    padding: 4px;
+}
+#submit {
+    border-radius: 8px;
+    padding: 4px;
+    background-color: aliceblue;
+}
+#reset {
+    border-radius: 8px;
+    padding: 4px;
+    background-color: aliceblue;
+}
+#Submit-button {
+    border: 1px solid rgb(31, 31, 32);
+    border-radius: 10px;
+    background-color: red;
+    color: aliceblue;
+    padding: 6px;
+    font-size: 15px;
+}
