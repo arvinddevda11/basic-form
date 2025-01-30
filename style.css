@@ -17,6 +17,11 @@
     border-radius: 8px;
     padding: 4px;
 }
+#dob {
+    margin-left: 38px;
+    border-radius: 8px;
+    padding: 4px;
+}
 #tel {
     border-radius: 8px;
     padding: 4px;
@@ -68,4 +73,9 @@
     color: aliceblue;
     padding: 6px;
     font-size: 15px;
+}
+
+::marker {
+    color: rgb(187, 7, 112);
+    font-size: 30px;
 }
